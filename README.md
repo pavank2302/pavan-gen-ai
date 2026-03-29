@@ -35,4 +35,4 @@ Cloud: AWS, Azure, GCP
  Email: pavank23.02@gmail.com
 
 
-⭐ *“Building AI that actually works in real-world systems.”*
+⭐ “Building AI that actually works in real-world systems.”
